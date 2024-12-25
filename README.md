@@ -18,3 +18,9 @@ Visite a página da LhaBath hospedada no Vercel:
 ## 👥 Colaboradores
 - **Laura Bidinoto**
 - **Henrique Mioduski**
+
+## Falta implementar
+- Mensagens para o usuário ("Login concluído com sucesso!")
+- Check de Termos de Uso
+- Alinhar os fronts
+- Lógica para o CNPJ
